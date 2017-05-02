@@ -2,4 +2,5 @@
 game with silverlight
 
 when this project is published and uploaded to server, can be connected from internet explorer only.
-internet explorer supports silverlight projects still.
+
+only internet explorer supports silverlight projects still.
