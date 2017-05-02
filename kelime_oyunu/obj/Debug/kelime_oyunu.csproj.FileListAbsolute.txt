@@ -1,0 +1,1276 @@
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\kelime_oyunu.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\kelime_oyunu.pdb
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\AppManifest.xaml
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\kelime_oyunu.xap
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\kelime_oyunuTestPage.html
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.csprojResolveAssemblyReference.cache
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\App.g.cs
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\MainPage.g.cs
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.g.resources
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.pdb
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\XapCacheFile.xml
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\Kelime.g.cs
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\bekleniyor.g.cs
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu\obj\Debug\bilindi.g.cs
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\obj\Debug\App.g.cs
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\obj\Debug\Kelime.g.cs
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\obj\Debug\MainPage.g.cs
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\obj\Debug\kelime_oyunu.g.resources
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\obj\Debug\kelime_oyunu.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\kelime_oyunu.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\kelime_oyunu.pdb
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\AppManifest.xaml
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\kelime_oyunu.xap
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\kelime_oyunuTestPage.html
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\obj\Debug\kelime_oyunu.pdb
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\obj\Debug\XapCacheFile.xml
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\obj\Debug\kelime_oyunu.csprojResolveAssemblyReference.cache
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\kelime_oyunu.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\kelime_oyunu.pdb
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\AppManifest.xaml
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\kelime_oyunu.xap
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\kelime_oyunuTestPage.html
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\obj\Debug\kelime_oyunu.csprojResolveAssemblyReference.cache
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\obj\Debug\App.g.cs
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\obj\Debug\bekleniyor.g.cs
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\obj\Debug\bilindi.g.cs
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\obj\Debug\Kelime.g.cs
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\obj\Debug\MainPage.g.cs
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\obj\Debug\kelime_oyunu.g.resources
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\obj\Debug\kelime_oyunu.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\obj\Debug\kelime_oyunu.pdb
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu\obj\Debug\XapCacheFile.xml
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.Windows.Controls.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.Windows.Controls.Pivot.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.Windows.Data.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.Xml.Linq.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.Windows.Controls.xml
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.xml
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.Windows.Controls.Pivot.xml
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.Windows.Data.xml
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.Xml.Linq.xml
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ru\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu\obj\Debug\AnimasyonPuan.g.cs
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\kelime_oyunu.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\kelime_oyunu.pdb
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\AppManifest.xaml
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\kelime_oyunu.xap
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\kelime_oyunuTestPage.html
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.Pivot.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Data.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.Xml.Linq.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.xml
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.xml
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.Pivot.xml
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Data.xml
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.Xml.Linq.xml
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.Pivot.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.csprojResolveAssemblyReference.cache
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\obj\Debug\App.g.cs
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\obj\Debug\AnimasyonPuan.g.cs
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\obj\Debug\Kelime.g.cs
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\obj\Debug\MainPage.g.cs
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.g.resources
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.pdb
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu\obj\Debug\XapCacheFile.xml
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\kelime_oyunu.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\kelime_oyunu.pdb
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\AppManifest.xaml
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\kelime_oyunu.xap
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\kelime_oyunuTestPage.html
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.Pivot.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Data.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.Xml.Linq.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.xml
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.xml
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Controls.Pivot.xml
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.Windows.Data.xml
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.Xml.Linq.xml
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.Pivot.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.Xml.Linq.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.csprojResolveAssemblyReference.cache
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\obj\Debug\App.g.cs
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\obj\Debug\AnimasyonPuan.g.cs
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\obj\Debug\Kelime.g.cs
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\obj\Debug\MainPage.g.cs
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.g.resources
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.pdb
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu\obj\Debug\XapCacheFile.xml
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\kelime_oyunu.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\kelime_oyunu.pdb
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\AppManifest.xaml
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\kelime_oyunu.xap
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\kelime_oyunuTestPage.html
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.Windows.Controls.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.Windows.Controls.Pivot.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.Windows.Data.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.Xml.Linq.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.Windows.Controls.xml
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.xml
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.Windows.Controls.Pivot.xml
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.Windows.Data.xml
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.Xml.Linq.xml
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ar\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\bg\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ca\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\cs\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\da\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\de\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\el\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\es\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\et\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\eu\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\fi\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\fr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\he\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\hr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\hu\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\id\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\it\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ja\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ko\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\lt\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\lv\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ms\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\nl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\no\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\pl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\pt\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\pt-BR\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ro\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ru\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\sk\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\sl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\sv\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\th\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\tr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\uk\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\vi\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Controls.Pivot.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ru\System.Xml.Linq.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\obj\Debug\kelime_oyunu.csprojResolveAssemblyReference.cache
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\obj\Debug\App.g.cs
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\obj\Debug\AnimasyonPuan.g.cs
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\obj\Debug\Kelime.g.cs
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\obj\Debug\MainPage.g.cs
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\obj\Debug\kelime_oyunu.g.resources
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\obj\Debug\kelime_oyunu.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\obj\Debug\kelime_oyunu.pdb
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu\obj\Debug\XapCacheFile.xml

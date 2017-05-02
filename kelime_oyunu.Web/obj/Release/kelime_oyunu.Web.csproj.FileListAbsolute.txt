@@ -1,0 +1,11 @@
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu.Web\bin\kelime_oyunu.Web.dll.config
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu.Web\bin\kelime_oyunu.Web.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu.Web\bin\kelime_oyunu.Web.pdb
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu.Web\obj\Release\kelime_oyunu.Web.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu.Web\obj\Release\kelime_oyunu.Web.pdb
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu.Web\bin\kelime_oyunu.Web.dll.config
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu.Web\bin\kelime_oyunu.Web.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu.Web\bin\kelime_oyunu.Web.pdb
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu.Web\obj\Release\kelime_oyunu.Web.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu.Web\obj\Release\kelime_oyunu.Web.pdb
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu.Web\obj\Release\kelime_oyunu.Web.csprojResolveAssemblyReference.cache

@@ -1,0 +1,37 @@
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu.Web\bin\kelime_oyunu.Web.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu.Web\bin\kelime_oyunu.Web.pdb
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.csprojResolveAssemblyReference.cache
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.dll
+C:\Users\canmustu\Desktop\kelime_oyunu\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.pdb
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu.Web\bin\kelime_oyunu.Web.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu.Web\bin\kelime_oyunu.Web.pdb
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.dll
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.pdb
+C:\Users\canmustu\Desktop\silverlight performans\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.csprojResolveAssemblyReference.cache
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu.Web\bin\kelime_oyunu.Web.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu.Web\bin\kelime_oyunu.Web.pdb
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.csprojResolveAssemblyReference.cache
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.dll
+C:\Users\canmustu\Desktop\silverlight performans - Kopya\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.pdb
+C:\Users\canmustu\Desktop\kelime oyunu\kelime_oyunu.Web\bin\kelime_oyunu.Web.dll
+C:\Users\canmustu\Desktop\kelime oyunu\kelime_oyunu.Web\bin\kelime_oyunu.Web.pdb
+C:\Users\canmustu\Desktop\kelime oyunu\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.csprojResolveAssemblyReference.cache
+C:\Users\canmustu\Desktop\kelime oyunu\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.dll
+C:\Users\canmustu\Desktop\kelime oyunu\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.pdb
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu.Web\bin\kelime_oyunu.Web.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu.Web\bin\kelime_oyunu.Web.pdb
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.csprojResolveAssemblyReference.cache
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.dll
+C:\Users\canmustu\Desktop\Silverlight\kelime oyunu\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.pdb
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu.Web\bin\kelime_oyunu.Web.dll.config
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu.Web\bin\kelime_oyunu.Web.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu.Web\bin\kelime_oyunu.Web.pdb
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.csprojResolveAssemblyReference.cache
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.dll
+C:\Users\can\Desktop\kelime oyunu\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.pdb
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu.Web\bin\kelime_oyunu.Web.dll.config
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu.Web\bin\kelime_oyunu.Web.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu.Web\bin\kelime_oyunu.Web.pdb
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.csprojResolveAssemblyReference.cache
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.dll
+C:\Users\cyclone\Desktop\KOD_ARSIVI\2_tamamlanmis_projeler\Kelime_Oyunu_Silverlight\kelime_oyunu.Web\obj\Debug\kelime_oyunu.Web.pdb
