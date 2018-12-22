@@ -1,6 +1,7 @@
-# silverlight_game_of_word
-game with silverlight
+# Word Finding Game
 
-when this project is published and uploaded to server, can be connected from internet explorer only.
+Silverlight Project
 
-only internet explorer supports silverlight projects still.
+When this project is published and uploaded to server, can be connected from internet explorer only.
+
+Only internet explorer supports silverlight projects.
