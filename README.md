@@ -1,4 +1,4 @@
-# Word Finding Game
+# Word Puzzle Game
 
 Silverlight Project
 
